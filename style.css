@@ -1,0 +1,9 @@
+    #sales-chart {
+      max-width: 800px;
+      margin: 40px auto;
+      display: block;
+    }
+    body {
+      text-align: center;
+      font-family: Arial, sans-serif;
+    }
